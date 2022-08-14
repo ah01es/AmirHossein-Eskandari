@@ -1,0 +1,68 @@
+html {
+    direction: rtl;
+}
+
+body{
+    background-color: rgba(110, 109, 200, 0.301);
+}
+
+section{
+    text-align: center;
+}
+
+h1{
+    color: rgb(15, 230, 15);
+    font-size: 5em;
+    position: relative;
+    top: -35px;
+}
+
+.pad{
+    padding-bottom: 20px;
+}
+.pad2{
+    padding: 20px 40px 20px 140px;
+}
+
+.pad3{
+    background-color: rgba(144, 78, 192, 0.318);
+    padding: 5px 12px 9px 12px;
+    font-size: 2em;
+    position: relative;
+    top: -45px;
+    color: rgb(15, 230, 15);
+}
+
+.bak-co{
+    position: relative;
+    top: -60px;
+    background-color: rgba(144, 78, 192, 0.318);
+    font-size: 2em;
+}
+
+.col{
+    background-color: rgba(144, 78, 192, 0.318);
+    display: inline;
+    border-radius: 5px;
+    color: rgb(15, 230, 15);
+    padding: 6px 12px 6px 12px;
+    font-size: 1.5em;
+    position: relative;
+    top: -55px;
+}
+.bor{
+    border-style: groove;
+    border-radius: 30px;
+    background-color: rgba(208, 170, 17, 0.782);
+    
+}
+
+#usererror{
+    position: relative;
+    top: -50px;
+}
+
+#passerror{
+    position: relative;
+    top: -50px;
+}
